@@ -1,3 +1,5 @@
+//Picture Object
+
 class Picture {
     constructor(width, height, pixels) {
       this.width = width;
